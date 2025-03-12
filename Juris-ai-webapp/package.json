@@ -1,0 +1,14 @@
+{
+  "name": "juris-ai-webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "npm run lint",
+    "test": "jest",
+    "posttest": "rm -rf logs/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
